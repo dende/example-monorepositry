@@ -1,0 +1,2 @@
+-e dende-github-api
+-e dende-gitlab-api
