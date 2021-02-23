@@ -1,2 +1,2 @@
--e dende-github-api
--e dende-gitlab-api
+./dende-github-api
+./dende-gitlab-api
